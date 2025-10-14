@@ -2,9 +2,6 @@
 ## 사전에 할일
 - ffmpeg 다운로드 👉️ [다운로드 방법](https://github.com/bambi0714/my/tree/main/doc/ffmpeg) 
 
-[https://github.com/FFmpeg/FFmpeg](https://www.gyan.dev/ffmpeg/builds/)
-태드플렛폼다운로드 방법
-
 ## 목차
 <!-- TOC start -->
 - [위티비 (2025-10-15일 기준)](#위티비-2025-10-15일-기준)
