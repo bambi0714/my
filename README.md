@@ -1,6 +1,6 @@
 # 태드 플랫폼 영상 및 자막 다운 (2024-10-15일 기준)
 ## 사전에 할일
-- ffmpeg 다운로드 👉️ [다운로드 방법] 
+- ffmpeg 다운로드 👉️ [다운로드 방법](https://github.com/bambi0714/my/tree/main/doc/ffmpeg) 
 
 [https://github.com/FFmpeg/FFmpeg](https://www.gyan.dev/ffmpeg/builds/)
 태드플렛폼다운로드 방법
