@@ -1,5 +1,17 @@
 # 태드 플랫폼 영상 및 자막 다운 (2024-10-15일 기준)
-사전에 할일 
+## 사전에 할일
+- ffmpeg 다운로드 👉️ [다운로드 방법] 
+
+[https://github.com/FFmpeg/FFmpeg](https://www.gyan.dev/ffmpeg/builds/)
+태드플렛폼다운로드 방법
+
+## 목차
+<!-- TOC start -->
+- [위티비 (2025-10-15일 기준)](#위티비-2025-10-15일-기준)
+   * [영상 다운](#영상-다운)
+   * [자막 다운](#자막-다운-자막은-영상에서-선택한-자막으로-다운됨)
+<!-- TOC end -->
+
 ## 위티비 (2025-10-15일 기준)
 ### 영상 다운
 1. 다운로드 받고 싶어하는 영상 재생 페이지로 이동 후 `F12`키 누르면 아래 사진 처럼 오른쪽에 탭창(개발자모드)가 뜸. 이후 `F5`키 눌러서 페이지 새로고침하기
@@ -50,6 +62,3 @@
 ![restApI2](https://github.com/user-attachments/assets/e2f9078c-d5ec-4d4b-b07a-367a33488e4b)
 
 
-
-[https://github.com/FFmpeg/FFmpeg](https://www.gyan.dev/ffmpeg/builds/)
-태드플렛폼다운로드 방법
