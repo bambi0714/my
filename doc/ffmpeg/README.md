@@ -1,21 +1,32 @@
 ## 1. ffmpeg 설치 방법
-### 1. [FFmpeg 공식페이지](https://www.gyan.dev/ffmpeg/builds/)로 이동
+## 목차
+<!-- TOC start -->
+ * [zip 파일 다운](#zip-파일-다운)
+ * [사용방법1 (특정 폴더에서 사용 가능)](#사용방법1-특정-폴더에서-사용-가능)
+ * [사용방법2 (특정 폴더에서 사용 가능)](#사용방법2-전체-폴더에서-사용-가능)
+<!-- TOC end -->
+
+## zip 파일 다운
+1. [FFmpeg 공식페이지](https://www.gyan.dev/ffmpeg/builds/)로 이동
   
-### 2. release builds 의 latest release에서 `.zip` 다운로드
+2. release builds 의 latest release에서 `.zip` 다운로드
 
   <img width="1090" height="272" alt="image" src="https://github.com/user-attachments/assets/b15e85f8-d4b6-4d10-85a0-762f0e4a9335" />
 
-### 3. 원하는 곳에 해당 zip파일 압축 풀기
-### 4. 압축을 풀면 ffmpeg~~폴더에 bin, doc 폴더등이 있고, bin 폴더에 들어가면 `ffmpeg.exe` 파일이 있으면 설치 완료 됨
+3. 원하는 곳에 해당 zip파일 압축 풀기
+4. 압축을 풀면 ffmpeg~~폴더에 bin, doc 폴더등이 있고, bin 폴더에 들어가면 `ffmpeg.exe` 파일이 있으면 설치 완료 됨
 
 <br>
 
-## 2-1. ffmpeg 사용방법1 (PC 전체 폴더에서 사용 못함)
+## 사용방법1 (특정 폴더에서 사용 가능)
+
 환경변수 설정 하지않고 `ffmpeg~~폴더/bin` 폴더에서만 사용 가능 (ffmpeg.exe 파일이 있는 곳에서만)
 ### 1. 사용시 cmd에서 해당 폴더로 이동 후 `./ffmpeg.exe` 명령어로 사용(윈도우 기준)
 - ex) cmd에서 `./ffmpeg.exe -i "url" -c copy myviedo.mp4`로 사용
 
-## 2-2. ffmpeg 사용방법2 (PC 전체 폴더에서 사용가능)
+<br>
+
+## 사용방법2 (전체 폴더에서 사용 가능)
 환경변수 설정하고, PC 전체에서 사용가능함.
 ### 1. 윈도우검색(win키 누르기)에서 "환경 변수" 입력 ->  `시스템 환경 변수 편집` 클릭
 
