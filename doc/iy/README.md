@@ -59,7 +59,7 @@ ffmpeg -protocol_whitelist file,http,https,tcp,tls -i "파일제목.m3u8" -c cop
 
 ## 자막 다운
 - 한국어 자막을 원할 경우 그대로 두고, 만약 영어 자막을 원하면 아래 스크립트에서 "if (sub._name !== "한국어") continue;"에서 `한국어`를 `영어`로 변경.
-- "https://meta.video.아이☆치이.com/" url 영어로변경, ☆삭제
+- "https://meta.video.iqiyi.com/" 
 - 파일제목을 m3u8와 똑같이 변경
 ```
 (async () => {
