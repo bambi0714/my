@@ -3,5 +3,5 @@
 - ffmpeg 다운로드 👉️ [다운로드 방법](https://github.com/bambi0714/my/tree/main/doc/ffmpeg)
 
 ## 목차
-- [윕티비(2025-10-15일 기준)](https://github.com/bambi0714/my/tree/main/doc/w)
-- [아이...](https://github.com/bambi0714/my/tree/main/doc/iy)
+- [위티비(2025-10-15일 기준)](https://github.com/bambi0714/my/tree/main/doc/w)
+- [아이치이](https://github.com/bambi0714/my/tree/main/doc/iy)
